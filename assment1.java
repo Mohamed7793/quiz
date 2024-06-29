@@ -23,6 +23,6 @@ public class assment1 {
         int[] myarray1 = {1, 2, 3, 6};
         int[] myarray2 = {2, 3, 4 ,6};
         List<Integer> commonElements = findCommonElements(myarray1, myarray2);
-        System.out.println(commonElements); // Output: [2, 3]
+        System.out.println(commonElements); // Output: [2,3,6]
     }
 }
